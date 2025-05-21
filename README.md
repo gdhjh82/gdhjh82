@@ -23,7 +23,7 @@ Java, Servlet/JSP, MariaDB, MyBatis, Bootstrap, jQuery
 
 ### 주요 기능
 - ** 로그인/회원가입 **
-- 기본 정보 입력(이름,이메일,비밀번호), 중복 체크와 정규식 검사, 인증 처리. 
+- 기본 정보 입력(이름,이메일,비밀번호), 중복 체크와 정규식 검사, 인증 처리
 - ** 마이페이지 **
 - 내 정보 조회/수정, 내 활동 이력, 소속 정보, 비동기 처리
 
@@ -31,4 +31,16 @@ Java, Servlet/JSP, MariaDB, MyBatis, Bootstrap, jQuery
 [🔗 GitHub 링크](https://github.com/4559jacky/film_log) | [📋 요구사항 정의서](https://docs.google.com/spreadsheets/d/17v0SuwXxb4LZlLdd6mIFIvCngizhSfBdnps8SRC2HUA/edit?gid=34940701#gid=34940701) | [🎨 화면 설계서(Figma)](https://www.figma.com/design/Ap84GhfJk1KaxbGGkWdDhO/%EB%AC%B4%EC%9E%90%EC%BD%94-%ED%8C%8C%EC%9D%B4%EB%84%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8--%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4)
 
 ---
+
+### 수행 기간
+2025/04/07 ~ 2025/05/19(팀 프로젝트 /6인)
+
+### 핵심 기술
+Java, Spring Boot, Thymeleaf, HTML, CSS, JavaScript, jQuery, MariaDB, JPA, Redis, GitHub, Docker, Linux, WebSocket, STOMP
+
+### 주요 기능
+- ** 공지사항 게시판 **
+- 게시판 crud, 파일 첨부, 고정 게시글, 긴급 공지 알람
+- ** 공유문서함 **
+- 개인, 부서, 공용 문서함, 차트, jstree를 사용한 폴더 트리 구조, 휴지통, 드래그 앤 드롭으로 폴더와 파일 이동
 
