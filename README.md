@@ -12,7 +12,7 @@
 
 ## 풋살장 예약 중계 사이트(축구미)
 > 풋살장 예약 중개 사이트(축구미)  
-[🔗 GitHub 링크](https://github.com/your-futsal-project) | [📋 요구사항 정의서](https://docs.google.com/...) | [🎨 화면 설계서(Figma)](https://figma.com/your-futsal-design)
+[🔗 GitHub 링크](https://github.com/choeunsung21/semi_project) | [📋 요구사항 정의서](https://docs.google.com/spreadsheets/d/1othyuyoCUbrIazbWy5xdtVGBpGsuPJ27ZUn6Iu_c77w/edit?gid=0#gid=0) | [🎨 화면 설계서(Figma)](https://www.figma.com/design/a1ySCXIbOrH1Mn4ikzwQo5/SoccerMe?node-id=2-2)
 
 ---
 
