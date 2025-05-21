@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"></a>
 
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요%20황정현입니다.&fontSize=50" />
 ## 보유기술
 
 | 언어 | DB | IDE | 빌드 | 배포 | 기술 |
